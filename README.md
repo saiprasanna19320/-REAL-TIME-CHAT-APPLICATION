@@ -26,3 +26,10 @@ emoji-mart for emoji picker
 LocalStorage for temporary message history
 
 JavaScript for state and interaction handling
+
+output: 
+![Image](https://github.com/user-attachments/assets/8af09be5-d696-431c-8b11-fb5fbdbe60cb)
+
+
+
+![Image](https://github.com/user-attachments/assets/610b0366-bc8a-4972-9bc0-050fd91bcc77)
